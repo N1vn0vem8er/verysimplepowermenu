@@ -1,6 +1,6 @@
 # Very Simple Power Menu
 
-Very simple power menu with: shutdown, reboot, logout and sleep buttons.
+Very simple power menu with: shutdown, reboot, logout and sleep buttons. Press Esc to exit.
 
 ## Technologies
 
